@@ -1,0 +1,97 @@
+# Tests d'attentes sur thinkpad_debian DATE: 2018-12-09 TIME: 15:02:13
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 1 threads.
+# soit 2520 incrémentations par thread.
+# Mode d'attente de tour : AAY
+1 0.319492 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 2 threads.
+# soit 1260 incrémentations par thread.
+# Mode d'attente de tour : AAY
+2 0.924953 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 3 threads.
+# soit 840 incrémentations par thread.
+# Mode d'attente de tour : AAY
+3 1.37986 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 4 threads.
+# soit 630 incrémentations par thread.
+# Mode d'attente de tour : AAY
+4 1.463327 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 5 threads.
+# soit 504 incrémentations par thread.
+# Mode d'attente de tour : AAY
+5 4.231776 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 6 threads.
+# soit 420 incrémentations par thread.
+# Mode d'attente de tour : AAY
+6 8.602221 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 7 threads.
+# soit 360 incrémentations par thread.
+# Mode d'attente de tour : AAY
+7 1.49723 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 8 threads.
+# soit 315 incrémentations par thread.
+# Mode d'attente de tour : AAY
+8 15.873303 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 9 threads.
+# soit 280 incrémentations par thread.
+# Mode d'attente de tour : AAY
+9 22.023568 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 10 threads.
+# soit 252 incrémentations par thread.
+# Mode d'attente de tour : AAY
+10 17.942035 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2519 incrémentations avec 11 threads.
+# soit 229 incrémentations par thread.
+# Mode d'attente de tour : AAY
+11 21.662355 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 12 threads.
+# soit 210 incrémentations par thread.
+# Mode d'attente de tour : AAY
+12 19.842527 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2509 incrémentations avec 13 threads.
+# soit 193 incrémentations par thread.
+# Mode d'attente de tour : AAY
+13 34.592239 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 14 threads.
+# soit 180 incrémentations par thread.
+# Mode d'attente de tour : AAY
+14 36.612529 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 15 threads.
+# soit 168 incrémentations par thread.
+# Mode d'attente de tour : AAY
+15 34.134432 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2512 incrémentations avec 16 threads.
+# soit 157 incrémentations par thread.
+# Mode d'attente de tour : AAY
+16 37.903445 # ms.

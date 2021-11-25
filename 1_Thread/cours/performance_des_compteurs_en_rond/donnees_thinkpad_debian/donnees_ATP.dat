@@ -1,0 +1,97 @@
+# Tests d'attentes sur thinkpad_debian DATE: 2018-12-09 TIME: 15:02:13
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 1 threads.
+# soit 2520 incrémentations par thread.
+# Mode d'attente de tour : ATP
+1 1.247415 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 2 threads.
+# soit 1260 incrémentations par thread.
+# Mode d'attente de tour : ATP
+2 11.561601 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 3 threads.
+# soit 840 incrémentations par thread.
+# Mode d'attente de tour : ATP
+3 13.732071 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 4 threads.
+# soit 630 incrémentations par thread.
+# Mode d'attente de tour : ATP
+4 10.084348 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 5 threads.
+# soit 504 incrémentations par thread.
+# Mode d'attente de tour : ATP
+5 9.988002 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 6 threads.
+# soit 420 incrémentations par thread.
+# Mode d'attente de tour : ATP
+6 10.087967 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 7 threads.
+# soit 360 incrémentations par thread.
+# Mode d'attente de tour : ATP
+7 10.507657 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 8 threads.
+# soit 315 incrémentations par thread.
+# Mode d'attente de tour : ATP
+8 11.310114 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 9 threads.
+# soit 280 incrémentations par thread.
+# Mode d'attente de tour : ATP
+9 9.705981 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 10 threads.
+# soit 252 incrémentations par thread.
+# Mode d'attente de tour : ATP
+10 10.256629 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2519 incrémentations avec 11 threads.
+# soit 229 incrémentations par thread.
+# Mode d'attente de tour : ATP
+11 10.329694 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 12 threads.
+# soit 210 incrémentations par thread.
+# Mode d'attente de tour : ATP
+12 10.623432 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2509 incrémentations avec 13 threads.
+# soit 193 incrémentations par thread.
+# Mode d'attente de tour : ATP
+13 10.379544 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 14 threads.
+# soit 180 incrémentations par thread.
+# Mode d'attente de tour : ATP
+14 10.501205 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 15 threads.
+# soit 168 incrémentations par thread.
+# Mode d'attente de tour : ATP
+15 9.78826 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2512 incrémentations avec 16 threads.
+# soit 157 incrémentations par thread.
+# Mode d'attente de tour : ATP
+16 11.027655 # ms.

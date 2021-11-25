@@ -1,0 +1,97 @@
+# Tests d'attentes sur thinkpad_debian DATE: 2018-12-09 TIME: 15:02:13
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 1 threads.
+# soit 2520 incrémentations par thread.
+# Mode d'attente de tour : AAN
+1 0.260129 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 2 threads.
+# soit 1260 incrémentations par thread.
+# Mode d'attente de tour : AAN
+2 0.630114 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 3 threads.
+# soit 840 incrémentations par thread.
+# Mode d'attente de tour : AAN
+3 0.506135 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 4 threads.
+# soit 630 incrémentations par thread.
+# Mode d'attente de tour : AAN
+4 5.06829 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 5 threads.
+# soit 504 incrémentations par thread.
+# Mode d'attente de tour : AAN
+5 5.719014 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 6 threads.
+# soit 420 incrémentations par thread.
+# Mode d'attente de tour : AAN
+6 9.225062 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 7 threads.
+# soit 360 incrémentations par thread.
+# Mode d'attente de tour : AAN
+7 29.46914 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 8 threads.
+# soit 315 incrémentations par thread.
+# Mode d'attente de tour : AAN
+8 12.170196 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 9 threads.
+# soit 280 incrémentations par thread.
+# Mode d'attente de tour : AAN
+9 7853.138183 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 10 threads.
+# soit 252 incrémentations par thread.
+# Mode d'attente de tour : AAN
+10 8326.778588 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2519 incrémentations avec 11 threads.
+# soit 229 incrémentations par thread.
+# Mode d'attente de tour : AAN
+11 10011.144145 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 12 threads.
+# soit 210 incrémentations par thread.
+# Mode d'attente de tour : AAN
+12 9878.792756 # ms.
+# Date du test : 09/12/18 15:02
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2509 incrémentations avec 13 threads.
+# soit 193 incrémentations par thread.
+# Mode d'attente de tour : AAN
+13 12453.041882 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 14 threads.
+# soit 180 incrémentations par thread.
+# Mode d'attente de tour : AAN
+14 13484.362284 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2520 incrémentations avec 15 threads.
+# soit 168 incrémentations par thread.
+# Mode d'attente de tour : AAN
+15 14449.162915 # ms.
+# Date du test : 09/12/18 15:03
+# sur une machine avec 8 coeurs.
+# Temps de calcul en ms. pour 2512 incrémentations avec 16 threads.
+# soit 157 incrémentations par thread.
+# Mode d'attente de tour : AAN
+16 15329.692658 # ms.
